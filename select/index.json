@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "We All Lie",
+  "base_artist": "milet",
+  "createdAt": "2026-03-23T13:32:53.994522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We All Lie",
+      "artist": "Ha Jin",
+      "has_synced": false,
+      "path": "select/01_We_All_Lie_Ha_Jin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We All Lie - Slow Version",
+      "artist": "Hajin",
+      "has_synced": true,
+      "path": "select/02_We_All_Lie_-_Slow_Version_Hajin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We All Lie",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/03_We_All_Lie_milet.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We All Lie",
+      "artist": "Hajin",
+      "has_synced": true,
+      "path": "select/04_We_All_Lie_Hajin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We All Lie (We all lie)",
+      "artist": "HAJIN - Topic",
+      "has_synced": true,
+      "path": "select/05_We_All_Lie_(We_all_lie)_HAJIN_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How We All Lie",
+      "artist": "The D.O.T.",
+      "has_synced": true,
+      "path": "select/06_How_We_All_Lie_The_D.O.T..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We All Lie (Slow Version)",
+      "artist": "Ha Jin",
+      "has_synced": false,
+      "path": "select/07_We_All_Lie_(Slow_Version)_Ha_Jin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We All Lie",
+      "artist": "Ha Jin",
+      "has_synced": true,
+      "path": "select/08_We_All_Lie_Ha_Jin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We All Lie (Orchestra Version)",
+      "artist": "Kim Tae Sung & Choi Jung In",
+      "has_synced": true,
+      "path": "select/09_We_All_Lie_(Orchestra_Version)_Kim_Tae_Sung_&_Choi_Jung_In.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We All Lie",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_We_All_Lie_milet.txt"
+    }
+  ]
+}
